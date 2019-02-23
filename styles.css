@@ -1,0 +1,28 @@
+body {
+  background-color: #150018;
+  color: #fff;
+  text-align: center;
+}
+
+h1 {
+  color: #fff500;
+  font-family: "Lato";
+  font-weight: bold;
+  font-size: 8rem;
+  margin: 2%;
+}
+
+.container {
+  padding: 2% 3% 5%;
+  text-align: center;
+}
+
+.player1 {
+  display: inline-block;
+  margin-right: 50px;
+}
+
+.player2 {
+  display: inline-block;
+  margin-left: 50px;
+}
